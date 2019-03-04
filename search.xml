@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试]]></title>
-    <url>%2F2019%2F03%2F04%2F%E6%B5%8B%E8%AF%95%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[Typora的使用]]></title>
+    <url>%2F2019%2F03%2F04%2FYypora%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[Typora的使用标题的使用标题的使用格式123456789#一阶标题 或者快捷键ctrl+1##二阶标题 或者快捷键ctrl+2###三阶标题 或者快捷键ctrl+3####四阶标题 或者快捷键ctrl+4...... 文本居中文本居中使用格式1&lt;center&gt;要居中的文字&lt;/center&gt; 文本居中的具体显示形式是要居中的文字 下划线下划线的使用格式1&lt;u&gt;下划线的内容&lt;/u&gt; 或者快捷键Ctrl+U 下划线的具体形式是下划线的内容 删除线删除线使用格式1~~删除线内容~~ 删除线的具体形式是删除线内容 字体加粗字体加粗使用格式1**加粗字体** 字体加粗的具体形式是加粗字体 字体倾斜字体倾斜使用格式1*这是字体倾斜* 字体倾斜的具体形式是这是字体倾斜 图片插入图片插入方法 直接使用拖拽的方法 选择图片路径图片插入的具体形式 图片插入的具体形式是 超链接超链接使用格式 1This is [an example](http://example.com/ &quot;Title&quot;) inline link. 1[This link](http://example.net/) has no title attribute. 超链接的具体形式是 This is an example inline link. This link has no title attribute. 代码区域 Typora支持对多种语言的代码区域进行语法高亮。这些语言涵盖了巨大部分经常使用的编程语言，包括C++，Python，MATLAB，甚至包含spreadsheet（也就是Excel电子表格）。用Typora记编程笔记，看起来一清二楚。如果设置代码语言为flow，那么可以直接画出一个流程图；还可以使用相应的方法画出时序图等图表。 代码区域的使用格式1` ` `+编程语言：例如java代码：` ` `java 代码区域的具体形式是12345public class simba&#123; public static void main(String[] args)&#123; System.out.println("我爱你，中国"); &#125;&#125; 表格的使用表格的使用格式 快捷键Ctrl+T，会自动跳出设置行和列的设置框 1|国籍|省份|市区| 表格的具体形式是 | 国籍 | 省份 | 市区 || —- | —- | —— || 中国 | 北京 | 东城区 | | 国籍 | 省份 | 市区 || —- | —- | —— || 中国 | 北京 | 东城区 | 任务列表任务列表使用格式1- [ ] 文字 （注：注意用空格隔开） 任务列表的具体形式是 [x] JAVA [ ] C [ ] C++ [x] Python 数学表达式Typora支持加入用LaTeX写成的数学公式，并且在软件界面下用MathJax直接渲染。 数学公式分为两种： 一种是行内公式(inline math)，可以在偏好设置中单独打开，由一个美元符号$将公式围起来； 一种是行外公式，直接按Ctrl+Shift+M； 注：上标和下标可以使用数学表达式来获取Typora支持加入用LaTeX写成的数学公式，并且在软件界面下用MathJax直接渲染。 数学公式分为两种： 一种是行内公式(inline math)，可以在偏好设置中单独打开，由一个美元符号$将公式围起来； 一种是行外公式，直接按Ctrl+Shift+M； 注：上标和下标可以使用数学表达式来获取 水平分割线水平分割线的使用格式1***或者- - - 水平分割先的具体形式是 引用引用的使用格式1&gt;+空格 引用的具体形式是与天奋斗，其乐无穷！与地奋斗，其乐无穷！与人奋斗，其乐无穷！ ———— 《毛泽东选集》之《奋斗自勉》（毛泽东1917年） 注释注释的使用格式123在需要添加脚注的文字后面+[+^+序列+]，注释的产生可以鼠标放置其上单击自动产生，添加信息或人工添加+[+^+序列+]+: 注释的具体形式是注脚[^1]]]></content>
       <categories>
-        <category>测试文档</category>
+        <category>Typora文档</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>Typora</tag>
+        <tag>工具</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F03%2F02%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. 亦如Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
